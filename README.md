@@ -1,2 +1,10 @@
-# test-nus-20200924
+# This is a Test Repository 
+
 This is a test repository for our DevOps course
+
+## This text is a little smaller than the headline
+
+Some more test.
+
+* this is a list item
+* this is ... another one!
